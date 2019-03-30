@@ -1,6 +1,5 @@
-<project xmlns="http://maven.apache.org/POM/4.0.0"
-	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>co.in.selenium.testbase</groupId>
 	<artifactId>Basic</artifactId>
@@ -73,4 +72,8 @@
 	<url>co.in.selenium</url>
 	<packaging>pom</packaging>
 	<description>This is Base project for Selenium Test. it have basic architecture of selenium framewaork which can be ewxtended in any type of test framework for further use </description>
+  <modules>
+    <module>Selenium</module>
+    <module>API</module>
+  </modules>
 </project>
