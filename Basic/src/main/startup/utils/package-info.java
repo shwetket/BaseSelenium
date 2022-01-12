@@ -5,4 +5,4 @@
  * @author vermk
  *
  */
-package main.java.co.in.startup.utils;
+package main.startup.utils;
