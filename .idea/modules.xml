@@ -3,9 +3,9 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Basic/API/API.iml" filepath="$PROJECT_DIR$/Basic/API/API.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/BaseSelenium.iml" filepath="$PROJECT_DIR$/.idea/BaseSelenium.iml" />
       <module fileurl="file://$PROJECT_DIR$/Basic/Basic.iml" filepath="$PROJECT_DIR$/Basic/Basic.iml" />
       <module fileurl="file://$PROJECT_DIR$/Basic/Selenium/Selenium.iml" filepath="$PROJECT_DIR$/Basic/Selenium/Selenium.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/TestBase.iml" filepath="$PROJECT_DIR$/.idea/TestBase.iml" />
     </modules>
   </component>
 </project>

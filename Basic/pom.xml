@@ -72,7 +72,7 @@
 	</organization>
 	<url>co.in.selenium</url>
 	<packaging>pom</packaging>
-	<description>This is Base project for Selenium Test. it have basic architecture of selenium framework which can be extended in any type of test framework for further use </description>
+	<description>This is Base project for Test. it has basic architecture of selenium framework which can be extended in any type of test framework for further use </description>
   <modules>
     <module>Selenium</module>
     <module>API</module>
